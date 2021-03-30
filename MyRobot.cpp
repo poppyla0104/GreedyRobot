@@ -1,7 +1,6 @@
 /*Poppy La
-Instructor: Dr.Dimpsey
-Course 342 B
-Program 2 GreedyRobot: Design a program that determines all the unique shortest possible paths from the robot to the treasure,
+
+GreedyRobot: Design a program that determines all the unique shortest possible paths from the robot to the treasure,
             Robot never move in the same direction more than MaxDistance times in a row.
 */
 
